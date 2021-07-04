@@ -1,0 +1,20 @@
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\bin\Debug\Ejercicio19_WIKI.exe.config
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\bin\Debug\Ejercicio19_WIKI.exe
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\bin\Debug\Ejercicio19_WIKI.pdb
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\bin\Debug\Ejercicio19_WIKI.xml
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.Form1.resources
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.Resources.resources
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.vbproj.GenerateResource.Cache
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.exe
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.xml
+C:\Users\casa\AppData\Local\Temporary Projects\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.pdb
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\bin\Debug\Ejercicio19_WIKI.exe.config
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.exe
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.xml
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.pdb
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\bin\Debug\Ejercicio19_WIKI.exe
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\bin\Debug\Ejercicio19_WIKI.pdb
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\bin\Debug\Ejercicio19_WIKI.xml
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.Form1.resources
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.Resources.resources
+C:\VISUAL_STUDIO_2012\Ejercicio19_WIKI\obj\Debug\Ejercicio19_WIKI.vbproj.GenerateResource.Cache
